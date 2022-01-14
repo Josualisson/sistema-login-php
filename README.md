@@ -1,6 +1,2 @@
-# Sistema de login usando php
+# Sistema de login usando php básico
 
-Login = josue
-
-<br>
-senha = 1234
