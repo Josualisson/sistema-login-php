@@ -1,2 +1,4 @@
-# sistema-login-php
-sistema de login básico sem usar banco de dados
+# Sistema de login usando php
+
+Login = josue
+senha = 1234
